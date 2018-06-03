@@ -20,3 +20,4 @@ function mouseup() {
     // Show coordinates of mouse on click
     console.log("Mouse clicked at", mouseX, mouseY);
 };
+/////////////////////////////////////////////////// shalcho da best
